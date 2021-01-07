@@ -1,4 +1,4 @@
-//Template variables in Pug
+//Template variables in Pug test
 import { videos } from "../db";
 export const home = (req, res) => {
   res.render("home", { pageTitle: "Home", videos });
