@@ -37,3 +37,14 @@ Addition to ".gitignore" ( for nodejs and package-lock.json )
 <br/>
 
 ### Mixin : recycling of repeated codes
+
+<br/>
+
+### MongoDB : choco install mongodb
+- **by using Chocolately software**
+
+<br/>
+
+### Mongoose : npm install mongoose
+- **an object module for node.js**  ***(connection to DB)***
+- **dotenv installation : npm install dotenv** for hiding DB URL
