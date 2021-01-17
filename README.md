@@ -36,6 +36,14 @@ Addition to ".gitignore" ( for nodejs and package-lock.json )
 
 <br/>
 
+### CRUD
+- **Create** : Make your own data
+- **Read** : Check what you want
+- **Update** : Change what's in the DataBase.
+- **Delete** : Remove what you don't want
+
+<br/>
+
 ### Mixin : recycling of repeated codes
 
 <br/>
