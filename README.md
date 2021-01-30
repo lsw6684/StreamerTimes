@@ -20,6 +20,7 @@ Addition to ".gitignore" ( for nodejs and package-lock.json )
 - **Helmet installation : npm install helmet** for security of node.js
 - **body-parser installation : npm install body-parser** for form data to server 
 - **cookie-parser installation : npm install cookie-parser** for cookie
+- **multer installation : npm install --save multer** for uploading file
 
 <br/>
 
