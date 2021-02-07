@@ -1,7 +1,7 @@
 import multer from "multer";
 import routes from "./routes";
 
-export const multerVideo = multer({dest: "videos/"});
+export const multerVideo = multer({dest: "uploads/videos/"});
 
 export const localsMiddleware = (req, res, next) => {
   res.locals.siteName = "Streamer Times";
